@@ -8,8 +8,9 @@ comments: true
 
 
 "Every picture has a story."
-![007_akanksha_photo essay](https://user-images.githubusercontent.com/36836451/37633458-835570a6-2c18-11e8-856a-f825f59376e7.jpg)
-![dsc_0171](https://user-images.githubusercontent.com/36836451/38159082-41188cbe-34bf-11e8-979c-7c536c835635.jpg)
+
+![dsc00983](https://user-images.githubusercontent.com/36836451/38159233-dbe4558c-34c1-11e8-9c2b-18a125edb552.JPG)
+
 
 
 {% if page.comments %}
