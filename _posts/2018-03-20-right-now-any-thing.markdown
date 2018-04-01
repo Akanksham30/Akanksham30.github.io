@@ -7,22 +7,36 @@ comments: true
 ---
 
 
-Is Photography A Reflection of Reality Or An Escape From It?
+IS PHOTOGRAPHY A REFLECTION OF REALITY OR AN ESCAPE FROM IT?
+
 
 Photography means "drawing with light". Its just a form of art when one can put his thoughts and capture the beauty of the moment in all its best.
 As a design student, I began learning photography and found the blog as a stage to share my experience and skills.
 
 ![pho_ass1_a007_01 1](https://user-images.githubusercontent.com/36836451/38169856-14066bd6-3593-11e8-8127-4543d1e66dc9.jpg)
 Dr. Bhau Daji Lad Musuem, Mumbai
+
 It is the oldest musuem in Bombay which seeks to serve the community as an Institution dedicated to excellence in cultural education through exhibitions and exceptional visual and scholarly media.
 
 ![shels](https://user-images.githubusercontent.com/36836451/38169901-83564eec-3594-11e8-9200-5370937ca87f.jpg)
 Kala Ghoda Arts Festival
+
 It is a nine day long annual art festival which focuses on preserving the art and heritage of South Mumbai. The celebration has energizing occassions for kids and grown ups alike.
+
+![girl](https://user-images.githubusercontent.com/36836451/38170598-8fdf2b9e-35a7-11e8-8aef-fa9c0ed28e46.jpg)
+Life has not given her much. But is that all she deserves
+Another picture from Kala Godha Arts Festival 2018
 
 ![jabalpur](https://user-images.githubusercontent.com/36836451/38169994-2af0d12a-3597-11e8-9bb0-9519405c4b6e.jpg)
 Bhedaghat, Jabalpur
+
 It’s a spellbinding experience to see the rocks accompany the graceful and effortless Narmada river.The exquistic sights of Bhedaghat will put a smile on your face, bringing alive the child in you.
+
+
+![mono](https://user-images.githubusercontent.com/36836451/38170407-9807dd52-35a2-11e8-89ed-1b91a2cda22b.jpg)
+The Palm Jumeirah Monorail is a monorail line on the Palm Jumeirah island in Dubai.
+
+
 
 
 
