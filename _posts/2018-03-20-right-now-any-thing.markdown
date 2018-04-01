@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Artsy Lens"📸
+title:  "The Artsy Lens"
 date:   2018-03-20 08:17:52 +0530
 categories: jekyll update
 comments: true
