@@ -1,15 +1,29 @@
 ---
 layout: post
-title:  "The Artsy Lens"
+title:  "The Artsy Lens"📸
 date:   2018-03-20 08:17:52 +0530
 categories: jekyll update
 comments: true
 ---
 
 
-"Every picture has a story."
+Is Photography A Reflection of Reality Or An Escape From It?
 
-![dsc00983](https://user-images.githubusercontent.com/36836451/38159233-dbe4558c-34c1-11e8-9c2b-18a125edb552.JPG)
+Photography means "drawing with light". Its just a form of art when one can put his thoughts and capture the beauty of the moment in all its best.
+As a design student, I began learning photography and found the blog as a stage to share my experience and skills.
+
+![pho_ass1_a007_01 1](https://user-images.githubusercontent.com/36836451/38169856-14066bd6-3593-11e8-8127-4543d1e66dc9.jpg)
+Dr. Bhau Daji Lad Musuem, Mumbai
+It is the oldest musuem in Bombay which seeks to serve the community as an Institution dedicated to excellence in cultural education through exhibitions and exceptional visual and scholarly media.
+
+![shels](https://user-images.githubusercontent.com/36836451/38169901-83564eec-3594-11e8-9200-5370937ca87f.jpg)
+Kala Ghoda Arts Festival
+It is a nine day long annual art festival which focuses on preserving the art and heritage of South Mumbai. The celebration has energizing occassions for kids and grown ups alike.
+
+![jabalpur](https://user-images.githubusercontent.com/36836451/38169994-2af0d12a-3597-11e8-9bb0-9519405c4b6e.jpg)
+Bhedaghat, Jabalpur
+It’s a spellbinding experience to see the rocks accompany the graceful and effortless Narmada river.The exquistic sights of Bhedaghat will put a smile on your face, bringing alive the child in you.
+
 
 
 
